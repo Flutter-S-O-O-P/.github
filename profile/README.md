@@ -1,20 +1,20 @@
-# Read Me
-# 프로젝트 제목
-```markdown
-----
-```
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=S-O-O-P&fontSize=90&fontColor=66cc00)
 
-# 프로젝트 정보
-```markdown
-프로젝트 목적 : ----
-프로젝트 개발 기간 : ----
-```
 
-# 팀 소개
-![image](https://private-user-images.githubusercontent.com/157683242/333201333-3c2da393-cb46-4292-9f31-af3cca21d9a3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY0OTUxODYsIm5iZiI6MTcxNjQ5NDg4NiwicGF0aCI6Ii8xNTc2ODMyNDIvMzMzMjAxMzMzLTNjMmRhMzkzLWNiNDYtNDI5Mi05ZjMxLWFmM2NjYTIxZDlhMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyM1QyMDA4MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMTgxZGQ0MTVkZDkxYWIxNDIxOWM2M2M2YjNmNTkxODdiNGEyMDE5NmNkZGJiMmM4NGY0NmRhMmE4NGI1ZTQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.vAQHRghrp4dui5xK07DfvWpZCCICgVpoIDh856uI4VI)
+  
+  <!-- Title Typing Effect -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Fighting%2C+S+O+O+P;We+are+Best+Team" alt="Typing SVG" /></a>
+<div align="center">  
+  <h4>"Society Of Original People"</h4>
+  <h6>"독창적인 사람들의 사회"</h6>
+</div>
+<div align="center">  
+  <img src="https://github.com/BlizzaB/.github/assets/157683242/3c2da393-cb46-4292-9f31-af3cca21d9a3" alt="2" border="0">
+</div>
 
-<pre>
-<code>
+<br>
 <div align="center">
   <table>
     <tr align="center">
@@ -54,17 +54,9 @@
     </tr>
   </table>
 </div>
-</code>
-</pre>
 
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0"/>
+</div>
